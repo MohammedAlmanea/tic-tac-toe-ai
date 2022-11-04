@@ -357,8 +357,8 @@ def main():
     # or
     # To use alpha-beta pruning algorithm   -> g.play_alpha_beta()
     
-    # g.play_alpha_beta
-    g.play()
+    g.play_alpha_beta()
+    # g.play()
 
 
 if __name__ == "__main__":
