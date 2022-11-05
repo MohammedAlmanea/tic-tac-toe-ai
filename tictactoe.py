@@ -346,3 +346,4 @@ class Game:
             player.current_state[input_x][input_y] = 'O'
             depth+=1
             player.player_turn = 'X'    
+
